@@ -13,7 +13,7 @@ https://icelandmonitor.mbl.is/news/news/2023/03/28/coldest_march_in_reykjavik_th
 
 Judy Y. Fong \
 Satish \
-Aida \ 
+Aida \
 Adri-max \ 
 
 # For a text only version you are allowed to use
