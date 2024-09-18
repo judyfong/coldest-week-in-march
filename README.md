@@ -14,7 +14,7 @@ https://icelandmonitor.mbl.is/news/news/2023/03/28/coldest_march_in_reykjavik_th
 Judy Y. Fong \
 Satish \
 Aida \
-Adri-max \ 
+Adri-max adri-max@einfaldlegahugmyndir.is
 
 # For a text only version you are allowed to use
 https://creativecommons.org/licenses/by/4.0/deed.en
