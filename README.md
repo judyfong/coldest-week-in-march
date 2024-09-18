@@ -1,6 +1,11 @@
 # coldest-week-in-march
 of 2023 and 2022 and 2024 and 2025
 
+# Notes
+turbulence and cloud coverage
+https://sites.psu.edu/icnmmf5/
+Email on april 5th, 2024 - let go and move on to AdrY
+
 # Papers
 https://icelandmonitor.mbl.is/news/news/2023/03/28/coldest_march_in_reykjavik_this_century/
 
