@@ -6,7 +6,7 @@ These are our notes for our research paper. People are invited to collaborate if
 # Notes of TODOs
 - [ ] turbulence and cloud coverage
 - [ ] https://sites.psu.edu/icnmmf5/
-- [ ] Email on april 5th, 2024 - let go and move on to AdrY
+- [ ] Email on april 5th, 2024 - let go and move on to All right. Next steps are you look at the other site’s hrly rates and learn a bit more about turbulance then we’ll check back weekly/every other week until october
 
 # Papers
 https://icelandmonitor.mbl.is/news/news/2023/03/28/coldest_march_in_reykjavik_this_century/
