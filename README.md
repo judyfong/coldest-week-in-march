@@ -12,6 +12,8 @@ These are our notes for our research paper. People are invited to collaborate if
 - [ ] find the professor who attended the conference and works at the university of groningen netherlands because lost his cardin lost luggage
 maybe this guy https://www.math.rug.nl/~verstappen/
 
+nevermind i'm definitely sure it ae veldmsn because i recognize his initials https://research.rug.nl/en/persons/arthur-veldman
+
 # Papers
 https://icelandmonitor.mbl.is/news/news/2023/03/28/coldest_march_in_reykjavik_this_century/
 
